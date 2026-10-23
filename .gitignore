@@ -1,0 +1,16 @@
+# OS 및 에디터 파일
+.DS_Store
+Thumbs.db
+.vscode/settings.json
+
+# 환경 변수 및 보안 파일
+.env
+
+# 파이썬 가상환경 및 캐시 파일
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+env/
+.venv/
+.ipynb_checkpoints/
